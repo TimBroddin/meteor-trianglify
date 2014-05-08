@@ -3,7 +3,7 @@
     "description": "Trianglify packaged for meteor",
     "homepage": "https://github.com/timbroddin/meteor-trianglify",
     "author": "Tim Broddin",
-    "version": "1.0",
+    "version": "0.1.0",
     "git": "https://github.com/timbroddin/meteor-trianglify.git",
     "packages": {}
 }
